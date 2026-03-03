@@ -4,7 +4,7 @@ public class AddTwoNumbers {
         int num1 = 30;
         int num2 = 20;
         
-        int sum = num1 + num2
+        int sum = num1 + num2;
         
         System.out.println("First Number: " + num1);
         System.out.println("Second Number: " + num2);
